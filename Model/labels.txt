@@ -1,0 +1,9 @@
+0 3
+1 A
+2 B
+3 C
+4 Call
+5 Dislike
+6 Good
+7 Ok
+8 Victory

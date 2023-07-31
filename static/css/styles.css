@@ -1,0 +1,68 @@
+.color{
+    background-image: url('https://img.freepik.com/free-photo/close-up-people-learning-together_23-2149204794.jpg?w=740&t=st=1689767571~exp=1689768171~hmac=2be487e112226f5751b0f9773d2a76a56f28caafaaedcbcbcff87939ca9841e4');
+    background-size: cover;
+    background-color: black ;
+    background-repeat: no-repeat;
+    height: 100%;
+    font-family: 'Numans', sans-serif;
+}
+
+#s_video{
+  background-color: black;
+  padding: 20px;
+  opacity: 0.5;
+  color: #f3f3ff;
+  margin: 0px 200px;
+}
+ /* Button styles */
+  .button {
+    display: inline-block;
+    padding: 10px 20px;
+    margin: 20px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    color: #fff;
+    background-color: #007bff;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.5);
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+/* Button hover styles */
+.button:hover {
+    background-color: #0062cc;
+}
+
+.center {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+
+.cente {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.footer_section {
+    position: relative;
+    background-color: #007bff;
+    text-align: center;
+  }
+  
+  .footer_section p {
+    color: #ffffff;
+    padding: 20px 0;
+    margin: 0;
+    border-top: 1px solid #ffffff;
+  }
+  
+  .footer_section p a {
+    color: inherit;
+  }
+
+  .h100-vh{
+    height: 100vh;
+  }
